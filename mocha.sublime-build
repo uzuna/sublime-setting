@@ -1,0 +1,7 @@
+{
+  "cmd": ["mocha --recursive --reporter tap ","$file"],
+  "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+  "selector": "source.js",
+  "encoding": "cp932",
+  "shell": true
+}

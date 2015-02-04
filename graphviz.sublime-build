@@ -1,0 +1,6 @@
+{
+	"cmd": ["dot", "-Tpng", "$file", "-o", "$file_base_name.png"],
+	"selector": "source.dot",
+	"path": "C:\\graphviz\\bin",
+	"encoding": "cp932"
+}

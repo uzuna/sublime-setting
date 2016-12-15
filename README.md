@@ -2,7 +2,7 @@
 Sublime setting
 
 
-## mocha runner for Max
+## mocha runner for Mac
 
 ```json
 {
